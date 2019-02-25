@@ -1,4 +1,4 @@
-# Code Examples from Deep Reinforcement with PyTorch and TensorFlow
+# Deep Reinforcement with PyTorch and TensorFlow
  ### Code Examples
  * Policy and Value Iteration
  * Q_learning (Tabular and function approximator)
