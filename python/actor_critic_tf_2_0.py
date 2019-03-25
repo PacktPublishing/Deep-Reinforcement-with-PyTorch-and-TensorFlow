@@ -119,7 +119,7 @@ def train_actor(params):
     return actor
 
 
-def test_actor(actor, params):
+def try_actor(actor, params):
     print("actor testing")
 
     # create open ai environment
@@ -170,7 +170,7 @@ def main():
     actor = train_actor(params)
 
     # test trained actor
-    test_actor(actor, params)
+    try_actor(actor, params)
 
 if __name__ == "__main__":
     main()
