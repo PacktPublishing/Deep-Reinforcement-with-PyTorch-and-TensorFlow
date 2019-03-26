@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31201ab7-f86b-434e-9987-df354703dda6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Deep-Reinforcement-with-PyTorch-and-TensorFlow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Deep-Reinforcement-with-PyTorch-and-TensorFlow.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/q_learning/dqn_simple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/q_learning/dqn_simple.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/recurrent_pytorch/seq_to_seq_simple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/recurrent_pytorch/seq_to_seq_simple.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/recurrent_pytorch/utils_seq_to_seq.py" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/recurrent_pytorch/utils_seq_to_seq.py" afterDir="false" />
-    </list>
+    <list default="true" id="31201ab7-f86b-434e-9987-df354703dda6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/notebooks/recurrent_pytorch/utils_seq_to_seq.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1118">
-              <caret line="149" column="67" selection-start-line="149" selection-start-column="67" selection-end-line="149" selection-end-column="67" />
+            <state relative-caret-position="1088">
+              <caret line="147" column="19" selection-start-line="147" selection-start-column="4" selection-end-line="147" selection-end-column="19" />
               <folding>
                 <element signature="e#0#65#0" expanded="true" />
               </folding>
@@ -207,8 +201,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/notebooks/recurrent_pytorch/utils_seq_to_seq.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1118">
-          <caret line="149" column="67" selection-start-line="149" selection-start-column="67" selection-end-line="149" selection-end-column="67" />
+        <state relative-caret-position="1088">
+          <caret line="147" column="19" selection-start-line="147" selection-start-column="4" selection-end-line="147" selection-end-column="19" />
           <folding>
             <element signature="e#0#65#0" expanded="true" />
           </folding>
