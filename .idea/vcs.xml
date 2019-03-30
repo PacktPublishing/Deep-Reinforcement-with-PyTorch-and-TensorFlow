@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../Reinforcement-learning-with-tensorflow" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../baselines" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../reinforcement_learning" vcs="Git" />
-  </component>
-</project>
